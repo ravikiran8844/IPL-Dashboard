@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  color: #fff;
+  background-color: #1e293b;
+  margin: 30px;
+  padding: 30px;
+  border-radius: 10px;
+  width: 300px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}

@@ -1,0 +1,31 @@
+.teamCard {
+  border: 2px solid #475569;
+  border-radius: 10px;
+  display: flex;
+  width: 45%;
+  margin: 10px;
+  list-style: none;
+  text-decoration: none;
+}
+.links {
+  color: #fff;
+  display: flex;
+}
+.teamLogo {
+  width: 100px;
+  padding: 20px;
+}
+
+p {
+  font-size: 22px;
+}
+@media (max-width: 768px) {
+  .teamCard {
+    border: 2px solid #475569;
+    border-radius: 10px;
+    display: flex;
+    width: 100%;
+    margin: 10px;
+    list-style: none;
+  }
+}
